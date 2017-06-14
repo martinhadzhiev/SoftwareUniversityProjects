@@ -1,0 +1,6 @@
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\FunctionalProgrammingExercise\ListOfPredicates\bin\Debug\ListOfPredicates.exe.config
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\FunctionalProgrammingExercise\ListOfPredicates\bin\Debug\ListOfPredicates.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\FunctionalProgrammingExercise\ListOfPredicates\bin\Debug\ListOfPredicates.pdb
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\FunctionalProgrammingExercise\ListOfPredicates\obj\Debug\ListOfPredicates.csprojResolveAssemblyReference.cache
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\FunctionalProgrammingExercise\ListOfPredicates\obj\Debug\ListOfPredicates.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\FunctionalProgrammingExercise\ListOfPredicates\obj\Debug\ListOfPredicates.pdb
