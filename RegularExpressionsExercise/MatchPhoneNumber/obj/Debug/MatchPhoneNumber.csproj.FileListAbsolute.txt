@@ -1,0 +1,5 @@
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\RegularExpressionsExercise\MatchPhoneNumber\bin\Debug\MatchPhoneNumber.exe.config
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\RegularExpressionsExercise\MatchPhoneNumber\bin\Debug\MatchPhoneNumber.exe
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\RegularExpressionsExercise\MatchPhoneNumber\bin\Debug\MatchPhoneNumber.pdb
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\RegularExpressionsExercise\MatchPhoneNumber\obj\Debug\MatchPhoneNumber.exe
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\RegularExpressionsExercise\MatchPhoneNumber\obj\Debug\MatchPhoneNumber.pdb

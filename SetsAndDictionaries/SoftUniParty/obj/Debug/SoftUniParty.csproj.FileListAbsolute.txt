@@ -1,0 +1,6 @@
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\SetsAndDictionaries\SoftUniParty\bin\Debug\SoftUniParty.exe.config
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\SetsAndDictionaries\SoftUniParty\bin\Debug\SoftUniParty.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\SetsAndDictionaries\SoftUniParty\bin\Debug\SoftUniParty.pdb
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\SetsAndDictionaries\SoftUniParty\obj\Debug\SoftUniParty.csprojResolveAssemblyReference.cache
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\SetsAndDictionaries\SoftUniParty\obj\Debug\SoftUniParty.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\SetsAndDictionaries\SoftUniParty\obj\Debug\SoftUniParty.pdb

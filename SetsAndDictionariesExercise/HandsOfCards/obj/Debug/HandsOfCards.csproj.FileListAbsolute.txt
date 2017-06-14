@@ -1,0 +1,6 @@
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\SetsAndDictionariesExercise\HandsOfCards\bin\Debug\HandsOfCards.exe.config
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\SetsAndDictionariesExercise\HandsOfCards\bin\Debug\HandsOfCards.exe
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\SetsAndDictionariesExercise\HandsOfCards\bin\Debug\HandsOfCards.pdb
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\SetsAndDictionariesExercise\HandsOfCards\obj\Debug\HandsOfCards.csprojResolveAssemblyReference.cache
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\SetsAndDictionariesExercise\HandsOfCards\obj\Debug\HandsOfCards.exe
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\SetsAndDictionariesExercise\HandsOfCards\obj\Debug\HandsOfCards.pdb

@@ -1,0 +1,5 @@
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\FunctionalProgramming\CountUppercaseWords\bin\Debug\CountUppercaseWords.exe.config
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\FunctionalProgramming\CountUppercaseWords\bin\Debug\CountUppercaseWords.exe
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\FunctionalProgramming\CountUppercaseWords\bin\Debug\CountUppercaseWords.pdb
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\FunctionalProgramming\CountUppercaseWords\obj\Debug\CountUppercaseWords.exe
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\FunctionalProgramming\CountUppercaseWords\obj\Debug\CountUppercaseWords.pdb

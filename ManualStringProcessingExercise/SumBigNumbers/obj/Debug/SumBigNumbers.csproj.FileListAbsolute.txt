@@ -1,0 +1,5 @@
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\SumBigNumbers\bin\Debug\SumBigNumbers.exe.config
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\SumBigNumbers\bin\Debug\SumBigNumbers.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\SumBigNumbers\bin\Debug\SumBigNumbers.pdb
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\SumBigNumbers\obj\Debug\SumBigNumbers.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\SumBigNumbers\obj\Debug\SumBigNumbers.pdb

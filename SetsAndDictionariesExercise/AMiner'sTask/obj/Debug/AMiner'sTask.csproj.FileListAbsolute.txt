@@ -1,0 +1,5 @@
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\SetsAndDictionariesExercise\AMiner'sTask\bin\Debug\AMiner'sTask.exe.config
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\SetsAndDictionariesExercise\AMiner'sTask\bin\Debug\AMiner'sTask.exe
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\SetsAndDictionariesExercise\AMiner'sTask\bin\Debug\AMiner'sTask.pdb
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\SetsAndDictionariesExercise\AMiner'sTask\obj\Debug\AMiner'sTask.exe
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\SetsAndDictionariesExercise\AMiner'sTask\obj\Debug\AMiner'sTask.pdb

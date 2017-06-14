@@ -1,0 +1,6 @@
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingLab\ParseTags\bin\Debug\ParseTags.exe.config
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingLab\ParseTags\bin\Debug\ParseTags.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingLab\ParseTags\bin\Debug\ParseTags.pdb
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingLab\ParseTags\obj\Debug\ParseTags.csprojResolveAssemblyReference.cache
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingLab\ParseTags\obj\Debug\ParseTags.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingLab\ParseTags\obj\Debug\ParseTags.pdb

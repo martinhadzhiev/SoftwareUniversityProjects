@@ -1,0 +1,5 @@
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\SetsAndDictionariesExercise\PeriodicTable\bin\Debug\PeriodicTable.exe.config
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\SetsAndDictionariesExercise\PeriodicTable\bin\Debug\PeriodicTable.exe
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\SetsAndDictionariesExercise\PeriodicTable\bin\Debug\PeriodicTable.pdb
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\SetsAndDictionariesExercise\PeriodicTable\obj\Debug\PeriodicTable.exe
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\SetsAndDictionariesExercise\PeriodicTable\obj\Debug\PeriodicTable.pdb

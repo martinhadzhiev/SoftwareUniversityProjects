@@ -1,0 +1,5 @@
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\FunctionalProgramming\FIlterByAge\bin\Debug\FIlterByAge.exe.config
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\FunctionalProgramming\FIlterByAge\bin\Debug\FIlterByAge.exe
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\FunctionalProgramming\FIlterByAge\bin\Debug\FIlterByAge.pdb
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\FunctionalProgramming\FIlterByAge\obj\Debug\FIlterByAge.exe
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\FunctionalProgramming\FIlterByAge\obj\Debug\FIlterByAge.pdb

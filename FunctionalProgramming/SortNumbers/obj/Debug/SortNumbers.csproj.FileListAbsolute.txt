@@ -1,0 +1,6 @@
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\FunctionalProgramming\SortNumbers\bin\Debug\SortNumbers.exe.config
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\FunctionalProgramming\SortNumbers\bin\Debug\SortNumbers.exe
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\FunctionalProgramming\SortNumbers\bin\Debug\SortNumbers.pdb
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\FunctionalProgramming\SortNumbers\obj\Debug\SortNumbers.exe
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\FunctionalProgramming\SortNumbers\obj\Debug\SortNumbers.pdb
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\FunctionalProgramming\SortNumbers\obj\Debug\SortNumbers.csprojResolveAssemblyReference.cache

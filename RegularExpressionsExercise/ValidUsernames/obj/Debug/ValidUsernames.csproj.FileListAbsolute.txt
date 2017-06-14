@@ -1,0 +1,6 @@
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\RegularExpressionsExercise\ValidUsernames\bin\Debug\ValidUsernames.exe.config
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\RegularExpressionsExercise\ValidUsernames\bin\Debug\ValidUsernames.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\RegularExpressionsExercise\ValidUsernames\bin\Debug\ValidUsernames.pdb
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\RegularExpressionsExercise\ValidUsernames\obj\Debug\ValidUsernames.csprojResolveAssemblyReference.cache
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\RegularExpressionsExercise\ValidUsernames\obj\Debug\ValidUsernames.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\RegularExpressionsExercise\ValidUsernames\obj\Debug\ValidUsernames.pdb

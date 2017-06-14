@@ -1,0 +1,6 @@
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\StacksAndQueuesExercise\BalancedParanthesis\bin\Debug\BalancedParanthesis.exe.config
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\StacksAndQueuesExercise\BalancedParanthesis\bin\Debug\BalancedParanthesis.exe
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\StacksAndQueuesExercise\BalancedParanthesis\bin\Debug\BalancedParanthesis.pdb
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\StacksAndQueuesExercise\BalancedParanthesis\obj\Debug\BalancedParanthesis.csprojResolveAssemblyReference.cache
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\StacksAndQueuesExercise\BalancedParanthesis\obj\Debug\BalancedParanthesis.exe
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\StacksAndQueuesExercise\BalancedParanthesis\obj\Debug\BalancedParanthesis.pdb

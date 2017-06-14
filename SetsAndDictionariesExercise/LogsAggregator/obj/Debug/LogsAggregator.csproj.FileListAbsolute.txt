@@ -1,0 +1,5 @@
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\SetsAndDictionariesExercise\LogsAggregator\bin\Debug\LogsAggregator.exe.config
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\SetsAndDictionariesExercise\LogsAggregator\bin\Debug\LogsAggregator.exe
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\SetsAndDictionariesExercise\LogsAggregator\bin\Debug\LogsAggregator.pdb
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\SetsAndDictionariesExercise\LogsAggregator\obj\Debug\LogsAggregator.exe
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\SetsAndDictionariesExercise\LogsAggregator\obj\Debug\LogsAggregator.pdb

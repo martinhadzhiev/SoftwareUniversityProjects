@@ -1,0 +1,6 @@
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MatricesExercise\2x2SquaresInMatrix\bin\Debug\2x2SquaresInMatrix.exe.config
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MatricesExercise\2x2SquaresInMatrix\bin\Debug\2x2SquaresInMatrix.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MatricesExercise\2x2SquaresInMatrix\bin\Debug\2x2SquaresInMatrix.pdb
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MatricesExercise\2x2SquaresInMatrix\obj\Debug\2x2SquaresInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MatricesExercise\2x2SquaresInMatrix\obj\Debug\2x2SquaresInMatrix.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MatricesExercise\2x2SquaresInMatrix\obj\Debug\2x2SquaresInMatrix.pdb

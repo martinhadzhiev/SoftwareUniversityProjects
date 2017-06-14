@@ -1,0 +1,6 @@
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MultidimensionalArrays\MaximumSumOf2x2Submatrix\bin\Debug\MaximumSumOf2x2Submatrix.exe.config
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MultidimensionalArrays\MaximumSumOf2x2Submatrix\bin\Debug\MaximumSumOf2x2Submatrix.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MultidimensionalArrays\MaximumSumOf2x2Submatrix\bin\Debug\MaximumSumOf2x2Submatrix.pdb
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MultidimensionalArrays\MaximumSumOf2x2Submatrix\obj\Debug\MaximumSumOf2x2Submatrix.csprojResolveAssemblyReference.cache
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MultidimensionalArrays\MaximumSumOf2x2Submatrix\obj\Debug\MaximumSumOf2x2Submatrix.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MultidimensionalArrays\MaximumSumOf2x2Submatrix\obj\Debug\MaximumSumOf2x2Submatrix.pdb

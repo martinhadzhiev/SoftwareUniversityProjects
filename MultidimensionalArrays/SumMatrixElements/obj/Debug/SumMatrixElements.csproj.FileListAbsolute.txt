@@ -1,0 +1,6 @@
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\MultidimensionalArrays\SumMatrixElements\bin\Debug\SumMatrixElements.exe.config
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\MultidimensionalArrays\SumMatrixElements\bin\Debug\SumMatrixElements.exe
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\MultidimensionalArrays\SumMatrixElements\bin\Debug\SumMatrixElements.pdb
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\MultidimensionalArrays\SumMatrixElements\obj\Debug\SumMatrixElements.csprojResolveAssemblyReference.cache
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\MultidimensionalArrays\SumMatrixElements\obj\Debug\SumMatrixElements.exe
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\MultidimensionalArrays\SumMatrixElements\obj\Debug\SumMatrixElements.pdb

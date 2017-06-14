@@ -1,0 +1,6 @@
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\SetsAndDictionariesExercise\DragonArmy\bin\Debug\DragonArmy.exe.config
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\SetsAndDictionariesExercise\DragonArmy\bin\Debug\DragonArmy.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\SetsAndDictionariesExercise\DragonArmy\bin\Debug\DragonArmy.pdb
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\SetsAndDictionariesExercise\DragonArmy\obj\Debug\DragonArmy.csprojResolveAssemblyReference.cache
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\SetsAndDictionariesExercise\DragonArmy\obj\Debug\DragonArmy.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\SetsAndDictionariesExercise\DragonArmy\obj\Debug\DragonArmy.pdb

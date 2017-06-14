@@ -1,0 +1,6 @@
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\FunctionalProgramming\AddVAT\bin\Debug\AddVAT.exe.config
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\FunctionalProgramming\AddVAT\bin\Debug\AddVAT.exe
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\FunctionalProgramming\AddVAT\bin\Debug\AddVAT.pdb
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\FunctionalProgramming\AddVAT\obj\Debug\AddVAT.exe
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\FunctionalProgramming\AddVAT\obj\Debug\AddVAT.pdb
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\FunctionalProgramming\AddVAT\obj\Debug\AddVAT.csprojResolveAssemblyReference.cache

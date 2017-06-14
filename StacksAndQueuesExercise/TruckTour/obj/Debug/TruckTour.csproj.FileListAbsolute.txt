@@ -1,0 +1,6 @@
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\StacksAndQueuesExercise\TruckTour\bin\Debug\TruckTour.exe.config
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\StacksAndQueuesExercise\TruckTour\bin\Debug\TruckTour.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\StacksAndQueuesExercise\TruckTour\bin\Debug\TruckTour.pdb
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\StacksAndQueuesExercise\TruckTour\obj\Debug\TruckTour.csprojResolveAssemblyReference.cache
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\StacksAndQueuesExercise\TruckTour\obj\Debug\TruckTour.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\StacksAndQueuesExercise\TruckTour\obj\Debug\TruckTour.pdb

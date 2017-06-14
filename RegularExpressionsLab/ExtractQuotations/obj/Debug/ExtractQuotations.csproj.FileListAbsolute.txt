@@ -1,0 +1,6 @@
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\RegularExpressionsLab\ExtractQuotations\bin\Debug\ExtractQuotations.exe.config
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\RegularExpressionsLab\ExtractQuotations\bin\Debug\ExtractQuotations.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\RegularExpressionsLab\ExtractQuotations\bin\Debug\ExtractQuotations.pdb
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\RegularExpressionsLab\ExtractQuotations\obj\Debug\ExtractQuotations.csprojResolveAssemblyReference.cache
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\RegularExpressionsLab\ExtractQuotations\obj\Debug\ExtractQuotations.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\RegularExpressionsLab\ExtractQuotations\obj\Debug\ExtractQuotations.pdb

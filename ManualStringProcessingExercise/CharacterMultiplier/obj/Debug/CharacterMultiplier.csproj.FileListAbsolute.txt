@@ -1,0 +1,6 @@
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\CharacterMultiplier\bin\Debug\CharacterMultiplier.exe.config
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\CharacterMultiplier\bin\Debug\CharacterMultiplier.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\CharacterMultiplier\bin\Debug\CharacterMultiplier.pdb
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\CharacterMultiplier\obj\Debug\CharacterMultiplier.csprojResolveAssemblyReference.cache
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\CharacterMultiplier\obj\Debug\CharacterMultiplier.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\CharacterMultiplier\obj\Debug\CharacterMultiplier.pdb

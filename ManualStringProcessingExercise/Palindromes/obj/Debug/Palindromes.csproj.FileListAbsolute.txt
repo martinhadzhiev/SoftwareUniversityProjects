@@ -1,0 +1,5 @@
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\Palindromes\bin\Debug\Palindromes.exe.config
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\Palindromes\bin\Debug\Palindromes.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\Palindromes\bin\Debug\Palindromes.pdb
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\Palindromes\obj\Debug\Palindromes.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\Palindromes\obj\Debug\Palindromes.pdb

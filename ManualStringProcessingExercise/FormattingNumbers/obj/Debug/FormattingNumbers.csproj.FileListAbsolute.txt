@@ -1,0 +1,6 @@
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\FormattingNumbers\bin\Debug\FormattingNumbers.exe.config
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\FormattingNumbers\bin\Debug\FormattingNumbers.exe
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\FormattingNumbers\bin\Debug\FormattingNumbers.pdb
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\FormattingNumbers\obj\Debug\FormattingNumbers.exe
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\FormattingNumbers\obj\Debug\FormattingNumbers.pdb
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\FormattingNumbers\obj\Debug\FormattingNumbers.csprojResolveAssemblyReference.cache

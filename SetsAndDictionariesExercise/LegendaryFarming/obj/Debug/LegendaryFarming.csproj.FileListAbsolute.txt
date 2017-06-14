@@ -1,0 +1,6 @@
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\SetsAndDictionariesExercise\LegendaryFarming\bin\Debug\LegendaryFarming.exe.config
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\SetsAndDictionariesExercise\LegendaryFarming\bin\Debug\LegendaryFarming.exe
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\SetsAndDictionariesExercise\LegendaryFarming\bin\Debug\LegendaryFarming.pdb
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\SetsAndDictionariesExercise\LegendaryFarming\obj\Debug\LegendaryFarming.exe
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\SetsAndDictionariesExercise\LegendaryFarming\obj\Debug\LegendaryFarming.pdb
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\SetsAndDictionariesExercise\LegendaryFarming\obj\Debug\LegendaryFarming.csprojResolveAssemblyReference.cache

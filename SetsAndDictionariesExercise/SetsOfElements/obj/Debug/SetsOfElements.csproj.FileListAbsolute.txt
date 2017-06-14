@@ -1,0 +1,5 @@
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\SetsAndDictionariesExercise\SetsOfElements\bin\Debug\SetsOfElements.exe.config
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\SetsAndDictionariesExercise\SetsOfElements\bin\Debug\SetsOfElements.exe
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\SetsAndDictionariesExercise\SetsOfElements\bin\Debug\SetsOfElements.pdb
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\SetsAndDictionariesExercise\SetsOfElements\obj\Debug\SetsOfElements.exe
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\SetsAndDictionariesExercise\SetsOfElements\obj\Debug\SetsOfElements.pdb

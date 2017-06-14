@@ -1,0 +1,6 @@
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\StacksAndQueuesExercise\ReverseNumbersWithAStack\bin\Debug\ReverseNumbersWithAStack.exe.config
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\StacksAndQueuesExercise\ReverseNumbersWithAStack\bin\Debug\ReverseNumbersWithAStack.exe
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\StacksAndQueuesExercise\ReverseNumbersWithAStack\bin\Debug\ReverseNumbersWithAStack.pdb
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\StacksAndQueuesExercise\ReverseNumbersWithAStack\obj\Debug\ReverseNumbersWithAStack.csprojResolveAssemblyReference.cache
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\StacksAndQueuesExercise\ReverseNumbersWithAStack\obj\Debug\ReverseNumbersWithAStack.exe
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\StacksAndQueuesExercise\ReverseNumbersWithAStack\obj\Debug\ReverseNumbersWithAStack.pdb

@@ -1,0 +1,6 @@
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MatricesExercise\TargetPractice\bin\Debug\TargetPractice.exe.config
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MatricesExercise\TargetPractice\bin\Debug\TargetPractice.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MatricesExercise\TargetPractice\bin\Debug\TargetPractice.pdb
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MatricesExercise\TargetPractice\obj\Debug\TargetPractice.csprojResolveAssemblyReference.cache
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MatricesExercise\TargetPractice\obj\Debug\TargetPractice.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MatricesExercise\TargetPractice\obj\Debug\TargetPractice.pdb

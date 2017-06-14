@@ -1,0 +1,6 @@
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MultidimensionalArrays\PascalTriangle\bin\Debug\PascalTriangle.exe.config
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MultidimensionalArrays\PascalTriangle\bin\Debug\PascalTriangle.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MultidimensionalArrays\PascalTriangle\bin\Debug\PascalTriangle.pdb
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MultidimensionalArrays\PascalTriangle\obj\Debug\PascalTriangle.csprojResolveAssemblyReference.cache
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MultidimensionalArrays\PascalTriangle\obj\Debug\PascalTriangle.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MultidimensionalArrays\PascalTriangle\obj\Debug\PascalTriangle.pdb

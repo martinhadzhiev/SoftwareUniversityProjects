@@ -1,0 +1,6 @@
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\ExtractHyperlinks\bin\Debug\ExtractHyperlinks.exe.config
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\ExtractHyperlinks\bin\Debug\ExtractHyperlinks.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\ExtractHyperlinks\bin\Debug\ExtractHyperlinks.pdb
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\ExtractHyperlinks\obj\Debug\ExtractHyperlinks.csprojResolveAssemblyReference.cache
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\ExtractHyperlinks\obj\Debug\ExtractHyperlinks.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\ExtractHyperlinks\obj\Debug\ExtractHyperlinks.pdb

@@ -1,0 +1,5 @@
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingLab\ConcatenateStrings\bin\Debug\ConcatenateStrings.exe.config
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingLab\ConcatenateStrings\bin\Debug\ConcatenateStrings.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingLab\ConcatenateStrings\bin\Debug\ConcatenateStrings.pdb
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingLab\ConcatenateStrings\obj\Debug\ConcatenateStrings.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingLab\ConcatenateStrings\obj\Debug\ConcatenateStrings.pdb

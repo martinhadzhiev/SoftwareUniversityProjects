@@ -1,0 +1,6 @@
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\FunctionalProgrammingExercise\CustomMinFunction\bin\Debug\CustomMinFunction.exe.config
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\FunctionalProgrammingExercise\CustomMinFunction\bin\Debug\CustomMinFunction.exe
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\FunctionalProgrammingExercise\CustomMinFunction\bin\Debug\CustomMinFunction.pdb
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\FunctionalProgrammingExercise\CustomMinFunction\obj\Debug\CustomMinFunction.exe
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\FunctionalProgrammingExercise\CustomMinFunction\obj\Debug\CustomMinFunction.pdb
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\FunctionalProgrammingExercise\CustomMinFunction\obj\Debug\CustomMinFunction.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\MatricesExercise\MaximalSum\bin\Debug\MaximalSum.exe.config
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\MatricesExercise\MaximalSum\bin\Debug\MaximalSum.exe
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\MatricesExercise\MaximalSum\bin\Debug\MaximalSum.pdb
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\MatricesExercise\MaximalSum\obj\Debug\MaximalSum.exe
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\MatricesExercise\MaximalSum\obj\Debug\MaximalSum.pdb

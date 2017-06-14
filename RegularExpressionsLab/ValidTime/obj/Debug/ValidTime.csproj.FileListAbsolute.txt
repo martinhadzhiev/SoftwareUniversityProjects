@@ -1,0 +1,6 @@
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\RegularExpressionsLab\ValidTime\bin\Debug\ValidTime.exe.config
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\RegularExpressionsLab\ValidTime\bin\Debug\ValidTime.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\RegularExpressionsLab\ValidTime\bin\Debug\ValidTime.pdb
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\RegularExpressionsLab\ValidTime\obj\Debug\ValidTime.csprojResolveAssemblyReference.cache
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\RegularExpressionsLab\ValidTime\obj\Debug\ValidTime.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\RegularExpressionsLab\ValidTime\obj\Debug\ValidTime.pdb

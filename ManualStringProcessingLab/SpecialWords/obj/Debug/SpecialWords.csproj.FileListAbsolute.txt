@@ -1,0 +1,6 @@
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingLab\SpecialWords\bin\Debug\SpecialWords.exe.config
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingLab\SpecialWords\bin\Debug\SpecialWords.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingLab\SpecialWords\bin\Debug\SpecialWords.pdb
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingLab\SpecialWords\obj\Debug\SpecialWords.csprojResolveAssemblyReference.cache
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingLab\SpecialWords\obj\Debug\SpecialWords.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingLab\SpecialWords\obj\Debug\SpecialWords.pdb

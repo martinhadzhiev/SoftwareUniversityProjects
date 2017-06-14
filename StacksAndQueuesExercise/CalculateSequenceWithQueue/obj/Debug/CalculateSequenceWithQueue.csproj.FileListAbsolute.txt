@@ -1,0 +1,6 @@
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\StacksAndQueuesExercise\CalculateSequenceWithQueue\bin\Debug\CalculateSequenceWithQueue.exe.config
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\StacksAndQueuesExercise\CalculateSequenceWithQueue\bin\Debug\CalculateSequenceWithQueue.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\StacksAndQueuesExercise\CalculateSequenceWithQueue\bin\Debug\CalculateSequenceWithQueue.pdb
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\StacksAndQueuesExercise\CalculateSequenceWithQueue\obj\Debug\CalculateSequenceWithQueue.csprojResolveAssemblyReference.cache
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\StacksAndQueuesExercise\CalculateSequenceWithQueue\obj\Debug\CalculateSequenceWithQueue.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\StacksAndQueuesExercise\CalculateSequenceWithQueue\obj\Debug\CalculateSequenceWithQueue.pdb

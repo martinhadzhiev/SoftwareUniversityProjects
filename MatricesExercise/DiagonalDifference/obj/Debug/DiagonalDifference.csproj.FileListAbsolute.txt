@@ -1,0 +1,6 @@
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MatricesExercise\DiagonalDifference\bin\Debug\DiagonalDifference.exe.config
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MatricesExercise\DiagonalDifference\bin\Debug\DiagonalDifference.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MatricesExercise\DiagonalDifference\bin\Debug\DiagonalDifference.pdb
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MatricesExercise\DiagonalDifference\obj\Debug\DiagonalDifference.csprojResolveAssemblyReference.cache
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MatricesExercise\DiagonalDifference\obj\Debug\DiagonalDifference.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MatricesExercise\DiagonalDifference\obj\Debug\DiagonalDifference.pdb

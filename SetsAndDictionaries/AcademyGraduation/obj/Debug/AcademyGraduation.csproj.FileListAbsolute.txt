@@ -1,0 +1,6 @@
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\SetsAndDictionaries\AcademyGraduation\bin\Debug\AcademyGraduation.exe.config
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\SetsAndDictionaries\AcademyGraduation\bin\Debug\AcademyGraduation.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\SetsAndDictionaries\AcademyGraduation\bin\Debug\AcademyGraduation.pdb
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\SetsAndDictionaries\AcademyGraduation\obj\Debug\AcademyGraduation.csprojResolveAssemblyReference.cache
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\SetsAndDictionaries\AcademyGraduation\obj\Debug\AcademyGraduation.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\SetsAndDictionaries\AcademyGraduation\obj\Debug\AcademyGraduation.pdb

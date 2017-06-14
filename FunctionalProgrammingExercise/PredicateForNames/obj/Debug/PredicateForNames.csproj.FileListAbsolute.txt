@@ -1,0 +1,5 @@
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\FunctionalProgrammingExercise\PredicateForNames\bin\Debug\PredicateForNames.exe.config
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\FunctionalProgrammingExercise\PredicateForNames\bin\Debug\PredicateForNames.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\FunctionalProgrammingExercise\PredicateForNames\bin\Debug\PredicateForNames.pdb
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\FunctionalProgrammingExercise\PredicateForNames\obj\Debug\PredicateForNames.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\FunctionalProgrammingExercise\PredicateForNames\obj\Debug\PredicateForNames.pdb

@@ -1,0 +1,5 @@
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\ConvertFromBaseNToBase10\bin\Debug\ConvertFromBaseNToBase10.exe.config
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\ConvertFromBaseNToBase10\bin\Debug\ConvertFromBaseNToBase10.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\ConvertFromBaseNToBase10\bin\Debug\ConvertFromBaseNToBase10.pdb
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\ConvertFromBaseNToBase10\obj\Debug\ConvertFromBaseNToBase10.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\ConvertFromBaseNToBase10\obj\Debug\ConvertFromBaseNToBase10.pdb

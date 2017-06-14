@@ -1,0 +1,6 @@
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MatricesExercise\StringMatrixRotation\bin\Debug\StringMatrixRotation.exe.config
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MatricesExercise\StringMatrixRotation\bin\Debug\StringMatrixRotation.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MatricesExercise\StringMatrixRotation\bin\Debug\StringMatrixRotation.pdb
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MatricesExercise\StringMatrixRotation\obj\Debug\StringMatrixRotation.csprojResolveAssemblyReference.cache
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MatricesExercise\StringMatrixRotation\obj\Debug\StringMatrixRotation.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MatricesExercise\StringMatrixRotation\obj\Debug\StringMatrixRotation.pdb

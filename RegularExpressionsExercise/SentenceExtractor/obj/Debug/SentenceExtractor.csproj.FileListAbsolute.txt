@@ -1,0 +1,6 @@
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\RegularExpressionsExercise\SentenceExtractor\bin\Debug\SentenceExtractor.exe.config
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\RegularExpressionsExercise\SentenceExtractor\bin\Debug\SentenceExtractor.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\RegularExpressionsExercise\SentenceExtractor\bin\Debug\SentenceExtractor.pdb
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\RegularExpressionsExercise\SentenceExtractor\obj\Debug\SentenceExtractor.csprojResolveAssemblyReference.cache
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\RegularExpressionsExercise\SentenceExtractor\obj\Debug\SentenceExtractor.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\RegularExpressionsExercise\SentenceExtractor\obj\Debug\SentenceExtractor.pdb

@@ -1,0 +1,6 @@
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingLab\StudentsResults\bin\Debug\StudentsResults.exe.config
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingLab\StudentsResults\bin\Debug\StudentsResults.exe
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingLab\StudentsResults\bin\Debug\StudentsResults.pdb
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingLab\StudentsResults\obj\Debug\StudentsResults.csprojResolveAssemblyReference.cache
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingLab\StudentsResults\obj\Debug\StudentsResults.exe
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingLab\StudentsResults\obj\Debug\StudentsResults.pdb

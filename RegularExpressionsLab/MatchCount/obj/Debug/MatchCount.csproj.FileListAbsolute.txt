@@ -1,0 +1,6 @@
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\RegularExpressionsLab\MatchCount\bin\Debug\MatchCount.exe.config
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\RegularExpressionsLab\MatchCount\bin\Debug\MatchCount.exe
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\RegularExpressionsLab\MatchCount\bin\Debug\MatchCount.pdb
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\RegularExpressionsLab\MatchCount\obj\Debug\MatchCount.csprojResolveAssemblyReference.cache
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\RegularExpressionsLab\MatchCount\obj\Debug\MatchCount.exe
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\RegularExpressionsLab\MatchCount\obj\Debug\MatchCount.pdb

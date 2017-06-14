@@ -1,0 +1,6 @@
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\MatricesExercise\RubiksMatrix\bin\Debug\RubiksMatrix.exe.config
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\MatricesExercise\RubiksMatrix\bin\Debug\RubiksMatrix.exe
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\MatricesExercise\RubiksMatrix\bin\Debug\RubiksMatrix.pdb
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\MatricesExercise\RubiksMatrix\obj\Debug\RubiksMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\MatricesExercise\RubiksMatrix\obj\Debug\RubiksMatrix.exe
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\MatricesExercise\RubiksMatrix\obj\Debug\RubiksMatrix.pdb

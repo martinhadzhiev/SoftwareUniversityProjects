@@ -1,0 +1,6 @@
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\SetsAndDictionariesExercise\SrabskoUnleashed\bin\Debug\SrabskoUnleashed.exe.config
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\SetsAndDictionariesExercise\SrabskoUnleashed\bin\Debug\SrabskoUnleashed.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\SetsAndDictionariesExercise\SrabskoUnleashed\bin\Debug\SrabskoUnleashed.pdb
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\SetsAndDictionariesExercise\SrabskoUnleashed\obj\Debug\SrabskoUnleashed.csprojResolveAssemblyReference.cache
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\SetsAndDictionariesExercise\SrabskoUnleashed\obj\Debug\SrabskoUnleashed.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\SetsAndDictionariesExercise\SrabskoUnleashed\obj\Debug\SrabskoUnleashed.pdb

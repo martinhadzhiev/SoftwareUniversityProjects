@@ -1,0 +1,6 @@
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\SetsAndDictionariesExercise\UniqueUsernames\bin\Debug\UniqueUsernames.exe.config
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\SetsAndDictionariesExercise\UniqueUsernames\bin\Debug\UniqueUsernames.exe
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\SetsAndDictionariesExercise\UniqueUsernames\bin\Debug\UniqueUsernames.pdb
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\SetsAndDictionariesExercise\UniqueUsernames\obj\Debug\UniqueUsernames.csprojResolveAssemblyReference.cache
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\SetsAndDictionariesExercise\UniqueUsernames\obj\Debug\UniqueUsernames.exe
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\SetsAndDictionariesExercise\UniqueUsernames\obj\Debug\UniqueUsernames.pdb

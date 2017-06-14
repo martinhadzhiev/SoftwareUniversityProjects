@@ -1,0 +1,6 @@
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\StacksAndQueuesExercise\StackFibonacci\bin\Debug\StackFibonacci.exe.config
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\StacksAndQueuesExercise\StackFibonacci\bin\Debug\StackFibonacci.exe
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\StacksAndQueuesExercise\StackFibonacci\bin\Debug\StackFibonacci.pdb
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\StacksAndQueuesExercise\StackFibonacci\obj\Debug\StackFibonacci.csprojResolveAssemblyReference.cache
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\StacksAndQueuesExercise\StackFibonacci\obj\Debug\StackFibonacci.exe
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\StacksAndQueuesExercise\StackFibonacci\obj\Debug\StackFibonacci.pdb

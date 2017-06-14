@@ -1,0 +1,6 @@
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\MatricesExercise\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\MatricesExercise\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\MatricesExercise\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\MatricesExercise\ConsoleApp1\obj\Debug\MatrixOfPalindromes.csprojResolveAssemblyReference.cache
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\MatricesExercise\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\MatricesExercise\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

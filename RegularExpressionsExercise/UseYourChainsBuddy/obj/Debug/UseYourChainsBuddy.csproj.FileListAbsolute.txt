@@ -1,0 +1,6 @@
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\RegularExpressionsExercise\UseYourChainsBuddy\bin\Debug\UseYourChainsBuddy.exe.config
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\RegularExpressionsExercise\UseYourChainsBuddy\bin\Debug\UseYourChainsBuddy.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\RegularExpressionsExercise\UseYourChainsBuddy\bin\Debug\UseYourChainsBuddy.pdb
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\RegularExpressionsExercise\UseYourChainsBuddy\obj\Debug\UseYourChainsBuddy.csprojResolveAssemblyReference.cache
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\RegularExpressionsExercise\UseYourChainsBuddy\obj\Debug\UseYourChainsBuddy.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\RegularExpressionsExercise\UseYourChainsBuddy\obj\Debug\UseYourChainsBuddy.pdb

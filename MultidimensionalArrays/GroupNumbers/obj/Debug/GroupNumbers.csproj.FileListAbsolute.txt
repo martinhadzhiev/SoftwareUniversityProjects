@@ -1,0 +1,6 @@
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MultidimensionalArrays\GroupNumbers\bin\Debug\GroupNumbers.exe.config
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MultidimensionalArrays\GroupNumbers\bin\Debug\GroupNumbers.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MultidimensionalArrays\GroupNumbers\bin\Debug\GroupNumbers.pdb
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MultidimensionalArrays\GroupNumbers\obj\Debug\GroupNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MultidimensionalArrays\GroupNumbers\obj\Debug\GroupNumbers.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\MultidimensionalArrays\GroupNumbers\obj\Debug\GroupNumbers.pdb

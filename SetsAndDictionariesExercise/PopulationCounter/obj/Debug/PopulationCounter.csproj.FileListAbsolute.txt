@@ -1,0 +1,6 @@
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\SetsAndDictionariesExercise\PopulationCounter\bin\Debug\PopulationCounter.exe.config
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\SetsAndDictionariesExercise\PopulationCounter\bin\Debug\PopulationCounter.exe
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\SetsAndDictionariesExercise\PopulationCounter\bin\Debug\PopulationCounter.pdb
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\SetsAndDictionariesExercise\PopulationCounter\obj\Debug\PopulationCounter.csprojResolveAssemblyReference.cache
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\SetsAndDictionariesExercise\PopulationCounter\obj\Debug\PopulationCounter.exe
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\SetsAndDictionariesExercise\PopulationCounter\obj\Debug\PopulationCounter.pdb

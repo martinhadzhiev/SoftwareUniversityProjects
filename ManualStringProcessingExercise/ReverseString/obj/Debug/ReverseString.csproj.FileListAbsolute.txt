@@ -1,0 +1,6 @@
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\ReverseString\bin\Debug\ReverseString.exe.config
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\ReverseString\bin\Debug\ReverseString.exe
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\ReverseString\bin\Debug\ReverseString.pdb
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\ReverseString\obj\Debug\ReverseString.csprojResolveAssemblyReference.cache
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\ReverseString\obj\Debug\ReverseString.exe
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\ReverseString\obj\Debug\ReverseString.pdb

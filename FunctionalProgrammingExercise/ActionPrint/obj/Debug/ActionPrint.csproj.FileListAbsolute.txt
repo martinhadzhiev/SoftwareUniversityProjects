@@ -1,0 +1,6 @@
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\FunctionalProgrammingExercise\ActionPrint\bin\Debug\ActionPrint.exe.config
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\FunctionalProgrammingExercise\ActionPrint\bin\Debug\ActionPrint.exe
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\FunctionalProgrammingExercise\ActionPrint\bin\Debug\ActionPrint.pdb
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\FunctionalProgrammingExercise\ActionPrint\obj\Debug\ActionPrint.csprojResolveAssemblyReference.cache
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\FunctionalProgrammingExercise\ActionPrint\obj\Debug\ActionPrint.exe
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\FunctionalProgrammingExercise\ActionPrint\obj\Debug\ActionPrint.pdb

@@ -1,0 +1,6 @@
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\SetsAndDictionariesExercise\UserLogs\bin\Debug\UserLogs.exe.config
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\SetsAndDictionariesExercise\UserLogs\bin\Debug\UserLogs.exe
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\SetsAndDictionariesExercise\UserLogs\bin\Debug\UserLogs.pdb
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\SetsAndDictionariesExercise\UserLogs\obj\Debug\UserLogs.csprojResolveAssemblyReference.cache
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\SetsAndDictionariesExercise\UserLogs\obj\Debug\UserLogs.exe
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\SetsAndDictionariesExercise\UserLogs\obj\Debug\UserLogs.pdb

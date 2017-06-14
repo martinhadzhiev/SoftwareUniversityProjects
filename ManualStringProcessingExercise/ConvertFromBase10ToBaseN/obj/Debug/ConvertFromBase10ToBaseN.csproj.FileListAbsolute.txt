@@ -1,0 +1,6 @@
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\ConvertFromBase10ToBaseN\bin\Debug\ConvertFromBase10ToBaseN.exe.config
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\ConvertFromBase10ToBaseN\bin\Debug\ConvertFromBase10ToBaseN.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\ConvertFromBase10ToBaseN\bin\Debug\ConvertFromBase10ToBaseN.pdb
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\ConvertFromBase10ToBaseN\obj\Debug\ConvertFromBase10ToBaseN.csprojResolveAssemblyReference.cache
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\ConvertFromBase10ToBaseN\obj\Debug\ConvertFromBase10ToBaseN.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\ManualStringProcessingExercise\ConvertFromBase10ToBaseN\obj\Debug\ConvertFromBase10ToBaseN.pdb

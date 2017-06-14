@@ -1,0 +1,6 @@
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\FunctionalProgramming\SumNumbers\bin\Debug\SumNumbers.exe.config
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\FunctionalProgramming\SumNumbers\bin\Debug\SumNumbers.exe
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\FunctionalProgramming\SumNumbers\bin\Debug\SumNumbers.pdb
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\FunctionalProgramming\SumNumbers\obj\Debug\SumNumbers.csprojResolveAssemblyReference.cache
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\FunctionalProgramming\SumNumbers\obj\Debug\SumNumbers.exe
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\FunctionalProgramming\SumNumbers\obj\Debug\SumNumbers.pdb

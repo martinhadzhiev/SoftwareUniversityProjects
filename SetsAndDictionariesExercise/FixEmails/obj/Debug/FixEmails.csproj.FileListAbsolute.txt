@@ -1,0 +1,5 @@
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\SetsAndDictionariesExercise\FixEmails\bin\Debug\FixEmails.exe.config
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\SetsAndDictionariesExercise\FixEmails\bin\Debug\FixEmails.exe
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\SetsAndDictionariesExercise\FixEmails\bin\Debug\FixEmails.pdb
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\SetsAndDictionariesExercise\FixEmails\obj\Debug\FixEmails.exe
+c:\users\мартин хаджиев\documents\visual studio 2017\Projects\SetsAndDictionariesExercise\FixEmails\obj\Debug\FixEmails.pdb

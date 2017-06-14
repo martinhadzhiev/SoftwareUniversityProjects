@@ -1,0 +1,6 @@
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\StacksAndQueuesExercise\RecursiveFibocacci\bin\Debug\RecursiveFibocacci.exe.config
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\StacksAndQueuesExercise\RecursiveFibocacci\bin\Debug\RecursiveFibocacci.exe
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\StacksAndQueuesExercise\RecursiveFibocacci\bin\Debug\RecursiveFibocacci.pdb
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\StacksAndQueuesExercise\RecursiveFibocacci\obj\Debug\RecursiveFibocacci.csprojResolveAssemblyReference.cache
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\StacksAndQueuesExercise\RecursiveFibocacci\obj\Debug\RecursiveFibocacci.exe
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\StacksAndQueuesExercise\RecursiveFibocacci\obj\Debug\RecursiveFibocacci.pdb

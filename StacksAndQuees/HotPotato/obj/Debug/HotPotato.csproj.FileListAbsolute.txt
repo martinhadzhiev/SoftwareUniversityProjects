@@ -1,0 +1,5 @@
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\StacksAndQuees\HotPotato\bin\Debug\HotPotato.exe.config
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\StacksAndQuees\HotPotato\bin\Debug\HotPotato.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\StacksAndQuees\HotPotato\bin\Debug\HotPotato.pdb
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\StacksAndQuees\HotPotato\obj\Debug\HotPotato.exe
+C:\Users\Мартин Хаджиев\documents\visual studio 2017\Projects\StacksAndQuees\HotPotato\obj\Debug\HotPotato.pdb

@@ -1,0 +1,6 @@
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\StacksAndQuees\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\StacksAndQuees\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\StacksAndQuees\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\StacksAndQuees\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\StacksAndQuees\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\StacksAndQuees\SimpleCalculator\obj\Debug\SimpleCalculator.pdb

@@ -1,0 +1,6 @@
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\MatricesExercise\RadioactiveMutantVampireBunnies\bin\Debug\RadioactiveMutantVampireBunnies.exe.config
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\MatricesExercise\RadioactiveMutantVampireBunnies\bin\Debug\RadioactiveMutantVampireBunnies.exe
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\MatricesExercise\RadioactiveMutantVampireBunnies\bin\Debug\RadioactiveMutantVampireBunnies.pdb
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\MatricesExercise\RadioactiveMutantVampireBunnies\obj\Debug\RadioactiveMutantVampireBunnies.csprojResolveAssemblyReference.cache
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\MatricesExercise\RadioactiveMutantVampireBunnies\obj\Debug\RadioactiveMutantVampireBunnies.exe
+C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\MatricesExercise\RadioactiveMutantVampireBunnies\obj\Debug\RadioactiveMutantVampireBunnies.pdb
