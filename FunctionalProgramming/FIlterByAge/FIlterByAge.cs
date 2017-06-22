@@ -8,76 +8,63 @@
     {
         static void Main()
         {
-            var personCount = int.Parse(Console.ReadLine());
-            var dictionary = new Dictionary<string, int>();
+            var lines = int.Parse(Console.ReadLine());
+            var people = new Dictionary<string, int>();
 
-            for (int i = 0; i < personCount; i++)
+            for (int i = 0; i < lines; i++)
             {
-                var personArgs = Console.ReadLine()
-                    .Split(new[] { ", " }, StringSplitOptions.RemoveEmptyEntries)
-                    .ToArray();
-                var name = personArgs[0];
-                var age = int.Parse(personArgs[1]);
-
-                dictionary.Add(name, age);
+                var input = Console.ReadLine().Split(new[] { ", " }, StringSplitOptions.RemoveEmptyEntries);
+                people.Add(input[0], int.Parse(input[1]));
             }
 
             var condition = Console.ReadLine();
-            var conditionAge = int.Parse(Console.ReadLine());
+            var age = int.Parse(Console.ReadLine());
             var format = Console.ReadLine();
 
-            switch (condition)
-            {
-                case "younger":
-                    if (format == "name")
-                    {
-                        foreach (var p in dictionary.Where(p => p.Value < conditionAge))
-                        {
-                            Console.WriteLine(p.Key);
-                        }
-                    }
-                    else if (format == "age")
-                    {
-                        foreach (var p in dictionary.Where(p => p.Value < conditionAge))
-                        {
-                            Console.WriteLine(p.Value);
-                        }
-                    }
-                    else if (format == "name age")
-                    {
-                        foreach (var p in dictionary.Where(p => p.Value < conditionAge))
-                        {
-                            Console.WriteLine($"{p.Key} - {p.Value}");
-                        }
-                    }
-                    break;
+            var tester = CreateTester(condition, age);
+            var printer = CreatePrinter(format);
 
-                case "older":
-                    if (format == "name")
-                    {
-                        foreach (var p in dictionary.Where(p => p.Value >= conditionAge).OrderBy(p => p.Value))
-                        {
-                            Console.WriteLine(p.Key);
-                        }
-                    }
-                    else if (format == "age")
-                    {
-                        foreach (var p in dictionary.Where(p => p.Value >= conditionAge).OrderBy(p => p.Value))
-                        {
-                            Console.WriteLine(p.Value);
-                        }
-                    }
-                    else if (format == "name age")
-                    {
-                        foreach (var p in dictionary.Where(p => p.Value >= conditionAge).OrderBy(p => p.Value))
-                        {
-                            Console.WriteLine($"{p.Key} - {p.Value}");
-                        }
-                    }
-                    break;
+            InvokePrinter(people, tester, printer);
+
+        }
+
+        private static void InvokePrinter(Dictionary<string,
+            int> people, Func<int, bool> tester,
+            Action<KeyValuePair<string, int>> printer)
+        {
+            foreach (var person in people)
+            {
+                if (tester(person.Value))
+                {
+                    printer(person);
+                }
+            }
+        }
+
+        private static Action<KeyValuePair<string, int>> CreatePrinter(string format)
+        {
+            switch (format)
+            {
+                case "name age": return p => Console.WriteLine($"{p.Key} - {p.Value}");
+
+                case "name": return p => Console.WriteLine($"{p.Key}");
+
+                case "age": return p => Console.WriteLine($"{p.Value}");
+
+                default:
+                    return null;
 
             }
+        }
 
+        private static Func<int, bool> CreateTester(string condition, int age)
+        {
+            if (condition == "older")
+            {
+                return n => n >= age;
+            }
+
+            return n => n < age;
         }
     }
 }
