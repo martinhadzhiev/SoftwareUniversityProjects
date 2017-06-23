@@ -1,13 +1,34 @@
-﻿namespace BashSoft
+﻿using System.IO;
+
+namespace BashSoft
 {
     using System;
     using System.Collections.Generic;
-    
+
     public static class IOManager
     {
-        public static void TraverseDirectory(int depth)
+        public static void TraverseDirectory(string path)
         {
-           
+            OutputWriter.WriteEmptyLine();
+            int initialIdentation = path.Split('\\').Length;
+            Queue<string> subFolders = new Queue<string>();
+
+            subFolders.Enqueue(path);
+
+            while (subFolders.Count != 0)
+            {
+                string currentPath = subFolders.Dequeue();
+                int identation = currentPath.Split('\\').Length - initialIdentation;
+
+                OutputWriter.WriteMessageOnNewLine(string.Format("{0}{1}",
+                                                 new string('-', identation),
+                                                 currentPath));
+
+                foreach (var directoryPath in Directory.GetDirectories(currentPath))
+                {
+                    subFolders.Enqueue(directoryPath);
+                }
+            }
         }
     }
 }
