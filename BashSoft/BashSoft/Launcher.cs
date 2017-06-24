@@ -12,6 +12,12 @@
             //StudentsRepository.GetAllStudentsFromCourse("Unity");
             //StudentsRepository.GetStudentScoresFromCourse("Unity", "Ivan");
 
+            //Tester.CompareContent(@"C:\Users\Мартин Хаджиев\Desktop\test1.txt", @"C:\Users\Мартин Хаджиев\Desktop\test2.txt");
+
+            //IOManager.CreateDirectoryInCurrentFolder("pesho");
+
+            //IOManager.ChangeCurrentDirectoryAbsolute(@"C:\Windows");
+            //IOManager.TraverseDirectory(20);
 
         }
     }
