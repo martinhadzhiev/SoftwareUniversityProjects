@@ -1,6 +1,6 @@
 ﻿namespace BashSoft
 {
-    public class ExceptionMessages
+    public static class ExceptionMessages
     {
         public const string ExampleException = "Example message!";
         public const string DataAlreadyInitialisedException = "Data is already initialized!";
@@ -12,5 +12,9 @@
         public const string InvalidPath = "The folder/file you are trying to access at the current address, does not exist.";
         public const string UnableToGoHigherInParitionHierarchy = "Unable to go higher in partition hierarchy.";
         public const string ComparisonOfFilesWithDifferentSizes = "Files not of equal size, certain mismatch.";
+        public const string UnableToParseNumber = "The sequence you've written is not a valid number.";
+        public static string InvalidStudentFilter = "The given filter is not one of the following: excellent/average/poor";
+        public static string InvalidQueryComparison = "The comparison query you want, does not exist in the context of the current program!";
+        public static string InvalidTakeQueryParamter = "The take command expected does not match the format wanted!";
     }
 }
