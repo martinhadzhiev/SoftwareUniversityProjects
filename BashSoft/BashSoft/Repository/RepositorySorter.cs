@@ -1,34 +1,35 @@
 ﻿namespace BashSoft
 {
+    using System;
     using System.Collections.Generic;
     using System.Linq;
 
-    public static class RepositorySorters
+    public class RepositorySorter
     {
-        public static void OrderAndTake(Dictionary<string, List<int>> wantedData, string comparison, int studentsToTake)
+        public void OrderAndTake(Dictionary<string, double> studentMarks, string comparison, int studentsToTake)
         {
             comparison = comparison.ToLower();
             if (comparison == "ascending")
             {
-                PrintStudents(wantedData
-                    .OrderBy(x => x.Value.Sum())
+                this.PrintStudents(studentMarks
+                    .OrderBy(x => x.Value)
                     .Take(studentsToTake)
                     .ToDictionary(x => x.Key, x => x.Value));
             }
             else if (comparison == "descending")
             {
-                PrintStudents(wantedData
-                    .OrderByDescending(x => x.Value.Sum())
+                PrintStudents(studentMarks
+                    .OrderByDescending(x => x.Value)
                     .Take(studentsToTake)
                     .ToDictionary(x => x.Key, x => x.Value));
             }
             else
             {
-                OutputWriter.WriteMessageOnNewLine(ExceptionMessages.InvalidQueryComparison);
+                throw new InvalidOperationException(ExceptionMessages.InvalidQueryComparison);
             }
         }
 
-        public static void PrintStudents(Dictionary<string, List<int>> studentsSorted)
+        private void PrintStudents(Dictionary<string, double> studentsSorted)
         {
             foreach (var kv in studentsSorted)
             {

@@ -3,10 +3,11 @@
     using System;
     using System.IO;
     using System.Collections.Generic;
+    using Exceptions;
 
-    public static class IOManager
+    public class IOManager
     {
-        public static void TraverseDirectory(int depth)
+        public void TraverseDirectory(int depth)
         {
             OutputWriter.WriteEmptyLine();
             int initialIdentation = SessionData.currentPath.Split('\\').Length;
@@ -46,7 +47,7 @@
             }
         }
 
-        public static void CreateDirectoryInCurrentFolder(string name)
+        public void CreateDirectoryInCurrentFolder(string name)
         {
             string path = SessionData.currentPath + "\\" + name;
             try
@@ -55,13 +56,13 @@
             }
             catch (ArgumentException)
             {
-                OutputWriter.DisplayExeption(ExceptionMessages.ForbiddenSymbolsContainedInName);
-                return;
+                throw new InvalidFileNameException();
             }
+
             OutputWriter.WriteMessageOnNewLine($"Folder {name} created!");
         }
 
-        public static void ChangeCurrentDirectoryRelative(string relativePath)
+        public void ChangeCurrentDirectoryRelative(string relativePath)
         {
             if (relativePath == "..")
             {
@@ -74,7 +75,7 @@
                 }
                 catch (ArgumentOutOfRangeException)
                 {
-                    OutputWriter.DisplayExeption(ExceptionMessages.UnableToGoHigherInParitionHierarchy);
+                    throw new InvalidPathException();
                 }
             }
             else
@@ -85,12 +86,11 @@
             }
         }
 
-        public static void ChangeCurrentDirectoryAbsolute(string absolutePath)
+        public void ChangeCurrentDirectoryAbsolute(string absolutePath)
         {
             if (!Directory.Exists(absolutePath))
             {
-                OutputWriter.DisplayExeption(ExceptionMessages.InvalidPath);
-                return;
+                throw new InvalidPathException();
             }
 
             SessionData.currentPath = absolutePath;

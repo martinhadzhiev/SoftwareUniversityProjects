@@ -3,9 +3,9 @@
     using System;
     using System.IO;
 
-    public static class Tester
+    public class Tester
     {
-        public static string GetMismatchPath(string expectedOutputPath)
+        private string GetMismatchPath(string expectedOutputPath)
         {
             int indexOf = expectedOutputPath.LastIndexOf('\\');
             string directoryPath = expectedOutputPath.Substring(0, indexOf);
@@ -13,7 +13,7 @@
             return finalPath;
         }
 
-        public static void CompareContent(string userOutputPath, string expectedOutputPath)
+        public void CompareContent(string userOutputPath, string expectedOutputPath)
         {
             try
             {
@@ -31,13 +31,13 @@
                 PrintOutput(mismatches, hasMismatch, mismatchesPath);
                 OutputWriter.WriteMessageOnNewLine("Files read!");
             }
-            catch (Exception)
+            catch (Exception e)
             {
-                OutputWriter.WriteMessageOnNewLine(ExceptionMessages.InvalidPath);
+                OutputWriter.DisplayExeption(e.Message);
             }
         }
 
-        private static string[] GetLinesWithPossibleMismatches(string[] actualOutputLines, string[] expectedOutputLines, out bool hasMismatch)
+        private string[] GetLinesWithPossibleMismatches(string[] actualOutputLines, string[] expectedOutputLines, out bool hasMismatch)
         {
             hasMismatch = false;
             string output = string.Empty;
@@ -76,7 +76,7 @@
             return mismatches;
         }
 
-        private static void PrintOutput(string[] mismatches, bool hasMismatch, string mismatchesPath)
+        private void PrintOutput(string[] mismatches, bool hasMismatch, string mismatchesPath)
         {
             if (hasMismatch)
             {
@@ -84,14 +84,7 @@
                 {
                     OutputWriter.WriteMessageOnNewLine(line);
                 }
-                try
-                {
 
-                }
-                catch (Exception)
-                {
-                    OutputWriter.DisplayExeption(ExceptionMessages.InvalidPath);
-                }
                 File.WriteAllLines(mismatchesPath, mismatches);
                 return;
             }

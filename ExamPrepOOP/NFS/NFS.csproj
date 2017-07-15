@@ -42,11 +42,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="Factories\CarFactory.cs" />
+    <Compile Include="Factories\RaceFactory.cs" />
+    <Compile Include="InputParser\InputParser.cs" />
+    <Compile Include="Manager\CarManager.cs" />
+    <Compile Include="Models\Cars\Car.cs" />
+    <Compile Include="Models\Cars\ShowCar.cs" />
+    <Compile Include="Models\Cars\PerformanceCar.cs" />
+    <Compile Include="Models\Garage\Garage.cs" />
+    <Compile Include="Models\Races\DriftRace.cs" />
+    <Compile Include="Models\Races\DragRace.cs" />
+    <Compile Include="Models\Races\CasualRace.cs" />
+    <Compile Include="Models\Races\Race.cs" />
+    <Compile Include="Startup.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

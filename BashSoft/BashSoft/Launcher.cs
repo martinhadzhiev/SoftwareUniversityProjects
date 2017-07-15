@@ -4,23 +4,16 @@
 
     class Launcher
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            //IOManager.TraverseDirectory(@"C:\Users\Мартин Хаджиев\Documents\Visual Studio 2017\Projects\BashSoft");
+            Tester tester = new Tester();
+            IOManager ioManager = new IOManager();
+            StudentRepository repository = new StudentRepository(new RepositoryFilter(), new RepositorySorter());
 
-            //StudentsRepository.InitializeData();
-            //StudentsRepository.GetAllStudentsFromCourse("Unity");
-            //StudentsRepository.GetStudentScoresFromCourse("Unity", "Ivan");
+            CommandInterpreter interpreter = new CommandInterpreter(tester,repository,ioManager);
+            InputReader reader = new InputReader(interpreter);
 
-            //Tester.CompareContent(@"C:\Users\Мартин Хаджиев\Desktop\test1.txt", @"C:\Users\Мартин Хаджиев\Desktop\test2.txt");
-
-            //IOManager.CreateDirectoryInCurrentFolder("pesho");
-
-            //IOManager.ChangeCurrentDirectoryAbsolute(@"C:\Windows");
-            //IOManager.TraverseDirectory(20);
-
-            InputReader.StartReadingCommands();
-
+            reader.StartReadingCommands();
         }
     }
 }
