@@ -27,7 +27,7 @@ public class StartUp
 
                     for (int i = 5; i < soldierArgs.Length; i++)
                     {
-                        leutinantGeneral.Privates.Add((Private)soldiers.FirstOrDefault(s => s.Id == int.Parse(soldierArgs[i])));
+                        leutinantGeneral.Privates.Add(soldiers.FirstOrDefault(s => s.Id == int.Parse(soldierArgs[i])));
                     }
 
                     soldiers.Add(leutinantGeneral);

@@ -15,8 +15,7 @@ public class Commando : SpecialisedSoldier , ICommando
     {
         var sb = new StringBuilder();
 
-        sb.AppendLine($"Name: {this.FirstName} {this.LastName} Id: {this.Id} Salary: {this.Salary:F2}");
-        sb.AppendLine($"Corps: {this.Corps}");
+        sb.AppendLine(base.ToString());
         sb.AppendLine("Missions:");
 
         foreach (var mission in Missions)

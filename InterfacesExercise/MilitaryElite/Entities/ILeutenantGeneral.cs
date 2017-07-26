@@ -2,5 +2,5 @@
 
 public interface ILeutenantGeneral : IPrivate
 {
-    IList<IPrivate> Privates { get; }
+    IList<ISoldier> Privates { get; }
 }

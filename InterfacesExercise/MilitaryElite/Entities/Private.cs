@@ -10,6 +10,6 @@
 
     public override string ToString()
     {
-        return $"Name: {this.FirstName} {this.LastName} Id: {this.Id} Salary: {this.Salary:F2}";
+        return base.ToString() + $" Salary: {this.Salary:F2}";
     }
 }
