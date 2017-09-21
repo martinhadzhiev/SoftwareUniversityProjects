@@ -1,82 +1,80 @@
-﻿namespace BashSoft
+﻿namespace BashSoft.IO
 {
     using System;
-    using System.Diagnostics;
-    using System.IO;
-    using Exceptions;
-    using IO.Commands;
+    using System.Linq;
+    using System.Reflection;
+    using Attributes;
+    using Contracts;
+    using Execptions;
 
-    public class CommandInterpreter
+    public class CommandInterpreter : IInterpreter
     {
-        private Tester judge;
-        private StudentRepository repository;
-        private IOManager inputOutputManager;
+        private readonly IContentComparer judge;
+        private readonly IDatabase repository;
+        private readonly IDirectoryManager inputOutputManager;
 
-        public CommandInterpreter(Tester judge, StudentRepository repository, IOManager inputOutputManager)
+        public CommandInterpreter(IContentComparer judge, IDatabase repository,
+            IDirectoryManager inputOutputManager)
         {
             this.judge = judge;
             this.repository = repository;
             this.inputOutputManager = inputOutputManager;
         }
 
-        public void InterpredCommand(string input)
+        public void InterpretCommand(string input)
         {
             string[] data = input.Split();
             string commandName = data[0];
 
             try
             {
-                Command command = this.ParseCommand(input, data, commandName);
+                IExecutable command = this.ParseCommand(input, commandName, data);
                 command.Execute();
             }
-            catch (Exception ex)
+            catch (Exception e)
             {
-                OutputWriter.DisplayExeption(ex.Message);
+                OutputWriter.DisplayException(e.Message);
             }
         }
 
-        private Command ParseCommand(string input, string[] data, string command)
+        private IExecutable ParseCommand(string input, string command, string[] data)
         {
-            switch (command)
+            object[] parametersForCommandConstructor = new object[]
             {
-                case "open":
-                    return new OpenFileCommand(input, data, this.judge, this.repository, this.inputOutputManager);
-                case "mkdir":
-                    return new MakeDirectoryCommand(input, data, this.judge, this.repository, this.inputOutputManager);
-                case "ls":
-                    return new TraveseFoldersCommand(input, data, this.judge, this.repository, this.inputOutputManager);
-                case "cmp":
-                    return new CompareFilesCommand(input, data, this.judge, this.repository, this.inputOutputManager);
-                case "cdRel":
-                    return new ChangePathRelativelyCommand(input, data, this.judge, this.repository,
-                        this.inputOutputManager);
-                case "cdAbs":
-                    return new ChangeAbsolutePathCommand(input, data, this.judge, this.repository,
-                        this.inputOutputManager);
-                case "readDb":
-                    return new ReadDatabaseCommand(input, data, this.judge, this.repository, this.inputOutputManager);
-                case "filter":
-                    return new PrintFilteredStudentsCommand(input, data, this.judge, this.repository,
-                        this.inputOutputManager);
-                case "help":
-                    return new GetHelpCommand(input, data, this.judge, this.repository, this.inputOutputManager);
-                case "order":
-                    return new PrintOrderedStudentsCommand(input, data, this.judge, this.repository,
-                        this.inputOutputManager);
-                case "decOrder":
-                    break;
-                case "download":
-                    break;
-                case "downloadAsynch":
-                    break;
-                case "show":
-                    return new ShowCourseCommand(input, data, this.judge, this.repository, this.inputOutputManager);
-                case "dropdb":
-                    return new DropDatabaseCommand(input, data, this.judge, this.repository, this.inputOutputManager);
-                default:
-                    throw new InvalidCommandException(input);
+                input,data
+            };
+
+            Type commandType = Assembly.GetExecutingAssembly()
+                .GetTypes()
+                .FirstOrDefault(type => type.GetCustomAttributes(typeof(AliasAttribute))
+                .Where(attr => attr.Equals(command)).ToArray().Length > 0);
+
+            if (commandType == null)
+            {
+                throw new InvalidCommandException(input);
             }
-            throw new InvalidCommandException(input);
+
+            Type interpreterType = typeof(CommandInterpreter);
+
+            IExecutable exe = (IExecutable)Activator.CreateInstance(commandType, parametersForCommandConstructor);
+
+            FieldInfo[] fildsOfCommand = commandType.GetFields(BindingFlags.NonPublic | BindingFlags.Instance);
+
+            FieldInfo[] fieldsOfInterpreter = interpreterType.GetFields(BindingFlags.NonPublic | BindingFlags.Instance);
+
+            foreach (FieldInfo field in fildsOfCommand)
+            {
+                Attribute attr = field.GetCustomAttribute(typeof(InjectAttribute));
+                if (attr != null)
+                {
+                    if (fieldsOfInterpreter.Any(x => x.FieldType == field.FieldType))
+                    {
+                        field.SetValue(exe, fieldsOfInterpreter.First(x => x.FieldType == field.FieldType).GetValue(this));
+                    }
+                }
+            }
+
+            return exe;
         }
     }
 }

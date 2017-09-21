@@ -2,8 +2,8 @@
 
 public class CommonItem : AbstractItem
 {
-    public CommonItem(string name, int strengthBonus, int agilityBonus,
-                       int intelligenceBonus, int hitPointsBonus, int damageBonus)
+    public CommonItem(string name, long strengthBonus, long agilityBonus,
+        long intelligenceBonus, long hitPointsBonus, long damageBonus)
         : base(name, strengthBonus, agilityBonus, intelligenceBonus, hitPointsBonus, damageBonus)
     {
 

@@ -9,6 +9,6 @@ public class RecipeCommand : Command
 
     public override string Execute()
     {
-        return base.Manager.AddItemToHero(this.Arguments);
+        return base.Manager.AddRecipe(this.Arguments);
     }
 }

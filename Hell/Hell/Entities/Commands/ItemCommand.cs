@@ -9,6 +9,6 @@ public class ItemCommand : Command
 
     public override string Execute()
     {
-        return this.Manager.AddItemToHero(this.Arguments);
+        return this.Manager.AddItem(this.Arguments);
     }
 }

@@ -1,14 +1,14 @@
 ﻿public abstract class AbstractItem : IItem
 {
     private string name;
-    private int strengthBonus;
-    private int agilityBonus;
-    private int intelligenceBonus;
-    private int hitPointsBonus;
-    private int damageBonus;
+    private long strengthBonus;
+    private long agilityBonus;
+    private long intelligenceBonus;
+    private long hitPointsBonus;
+    private long damageBonus;
 
-    protected AbstractItem(string name, int strengthBonus, int agilityBonus,
-                           int intelligenceBonus, int hitPointsBonus, int damageBonus)
+    protected AbstractItem(string name, long strengthBonus, long agilityBonus,
+        long intelligenceBonus, long hitPointsBonus, long damageBonus)
     {
         this.Name = name;
         this.StrengthBonus = strengthBonus;
@@ -24,31 +24,31 @@
         private set { this.name = value; }
     }
 
-    public int StrengthBonus
+    public long StrengthBonus
     {
         get { return this.strengthBonus; }
         private set { this.strengthBonus = value; }
     }
 
-    public int AgilityBonus
+    public long AgilityBonus
     {
         get { return this.agilityBonus; }
         private set { this.agilityBonus = value; }
     }
 
-    public int IntelligenceBonus
+    public long IntelligenceBonus
     {
         get { return this.intelligenceBonus; }
         private set { this.intelligenceBonus = value; }
     }
 
-    public int HitPointsBonus
+    public long HitPointsBonus
     {
         get { return this.hitPointsBonus; }
         private set { this.hitPointsBonus = value; }
     }
 
-    public int DamageBonus
+    public long DamageBonus
     {
         get { return this.damageBonus; }
         private set { this.damageBonus = value; }

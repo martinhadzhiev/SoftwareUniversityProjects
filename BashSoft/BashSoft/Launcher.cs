@@ -1,17 +1,19 @@
 ﻿namespace BashSoft
 {
-    using System;
+    using Contracts;
+    using IO;
+    using Repository;
 
-    class Launcher
+    public class Launcher
     {
-        static void Main()
+        public static void Main()
         {
-            Tester tester = new Tester();
-            IOManager ioManager = new IOManager();
-            StudentRepository repository = new StudentRepository(new RepositoryFilter(), new RepositorySorter());
+            IContentComparer tester = new Tester();
+            IDirectoryManager ioManager = new IOManager();
+            IDatabase repo = new StudentsRepository(new RepositoryFilter(), new RepositorySorter());
 
-            CommandInterpreter interpreter = new CommandInterpreter(tester,repository,ioManager);
-            InputReader reader = new InputReader(interpreter);
+            IInterpreter currentInterpreter = new CommandInterpreter(tester, repo, ioManager);
+            IReader reader = new InputReader(currentInterpreter);
 
             reader.StartReadingCommands();
         }

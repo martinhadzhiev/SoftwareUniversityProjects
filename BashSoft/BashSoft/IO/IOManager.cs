@@ -1,11 +1,12 @@
-﻿namespace BashSoft
+﻿namespace BashSoft.IO
 {
     using System;
-    using System.IO;
     using System.Collections.Generic;
-    using Exceptions;
+    using System.IO;
+    using Contracts;
+    using Execptions;
 
-    public class IOManager
+    public class IOManager : IDirectoryManager
     {
         public void TraverseDirectory(int depth)
         {
@@ -58,8 +59,6 @@
             {
                 throw new InvalidFileNameException();
             }
-
-            OutputWriter.WriteMessageOnNewLine($"Folder {name} created!");
         }
 
         public void ChangeCurrentDirectoryRelative(string relativePath)
@@ -69,7 +68,7 @@
                 try
                 {
                     string currentPath = SessionData.currentPath;
-                    int indexOfLastSlash = currentPath.LastIndexOf('\\');
+                    int indexOfLastSlash = currentPath.LastIndexOf("\\");
                     string newPath = currentPath.Substring(0, indexOfLastSlash);
                     SessionData.currentPath = newPath;
                 }
@@ -80,9 +79,9 @@
             }
             else
             {
-                string currentPath = SessionData.currentPath;
-                currentPath += "\\" + relativePath;
-                ChangeCurrentDirectoryAbsolute(currentPath);
+                string currenPath = SessionData.currentPath;
+                currenPath += "\\" + relativePath;
+                SessionData.currentPath = currenPath;
             }
         }
 

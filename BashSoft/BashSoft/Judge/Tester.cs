@@ -2,8 +2,10 @@
 {
     using System;
     using System.IO;
+    using Contracts;
+    using Execptions;
 
-    public class Tester
+    public class Tester : IContentComparer
     {
         private string GetMismatchPath(string expectedOutputPath)
         {
@@ -31,9 +33,9 @@
                 PrintOutput(mismatches, hasMismatch, mismatchesPath);
                 OutputWriter.WriteMessageOnNewLine("Files read!");
             }
-            catch (Exception e)
+            catch (IOException)
             {
-                OutputWriter.DisplayExeption(e.Message);
+                throw new InvalidPathException();
             }
         }
 

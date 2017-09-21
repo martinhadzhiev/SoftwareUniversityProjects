@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BookComparator.cs" />
     <Compile Include="Entities\Book.cs" />
     <Compile Include="Entities\Library.cs" />
     <Compile Include="StartUp.cs" />

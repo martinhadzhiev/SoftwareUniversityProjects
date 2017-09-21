@@ -16,27 +16,27 @@ public class HeroInventory : IInventory
 
     public long TotalStrengthBonus
     {
-        get { return this.commonItems.Values.Sum(i => (long)i.StrengthBonus); }
+        get { return this.commonItems.Values.Sum(i => i.StrengthBonus); }
     }
 
     public long TotalAgilityBonus
     {
-        get { return this.commonItems.Values.Sum(i => (long)i.AgilityBonus); }
+        get { return this.commonItems.Values.Sum(i => i.AgilityBonus); }
     }
 
     public long TotalIntelligenceBonus
     {
-        get { return this.commonItems.Values.Sum(i => (long)i.IntelligenceBonus); }
+        get { return this.commonItems.Values.Sum(i => i.IntelligenceBonus); }
     }
 
     public long TotalHitPointsBonus
     {
-        get { return this.commonItems.Values.Sum(i => (long)i.HitPointsBonus); }
+        get { return this.commonItems.Values.Sum(i => i.HitPointsBonus); }
     }
 
     public long TotalDamageBonus
     {
-        get { return this.commonItems.Values.Sum(i => (long)i.DamageBonus); }
+        get { return this.commonItems.Values.Sum(i => i.DamageBonus); }
     }
 
     public void AddCommonItem(IItem item)

@@ -39,7 +39,7 @@ public class HeroManager : IManager
         return result;
     }
 
-    public string AddItemToHero(IList<string> arguments)
+    public string AddItem(IList<string> arguments)
     {
         string result = null;
 
@@ -51,24 +51,33 @@ public class HeroManager : IManager
         int hitPointsBonus = int.Parse(arguments[5]);
         int damageBonus = int.Parse(arguments[6]);
 
-        if (arguments.Count > 7)
-        {
-            IList<string> requiredItems = arguments.Skip(7).ToList();
-
-            IRecipe recipeItem = new RecipeItem(itemName, strengthBonus, agilityBonus, intelligenceBonus, hitPointsBonus, damageBonus, requiredItems);
-
-            this.heroes[heroName].Inventory.AddRecipeItem(recipeItem);
-
-            result = string.Format(Constants.RecipeCreatedMessage, itemName, heroName);
-
-            return result;
-        }
-
         IItem newItem = new CommonItem(itemName, strengthBonus,
             agilityBonus, intelligenceBonus, hitPointsBonus, damageBonus);
         this.heroes[heroName].Inventory.AddCommonItem(newItem);
 
         result = string.Format(Constants.ItemCreateMessage, itemName, heroName);
+
+        return result;
+    }
+
+    public string AddRecipe(IList<string> arguments)
+    {
+        string result = null;
+
+        string itemName = arguments[0];
+        string heroName = arguments[1];
+        int strengthBonus = int.Parse(arguments[2]);
+        int agilityBonus = int.Parse(arguments[3]);
+        int intelligenceBonus = int.Parse(arguments[4]);
+        int hitPointsBonus = int.Parse(arguments[5]);
+        int damageBonus = int.Parse(arguments[6]);
+        IList<string> requiredItems = arguments.Skip(7).ToList();
+
+        IRecipe recipeItem = new RecipeItem(itemName, strengthBonus, agilityBonus, intelligenceBonus,
+                                            hitPointsBonus, damageBonus, requiredItems);
+
+        this.heroes[heroName].Inventory.AddRecipeItem(recipeItem);
+        result = string.Format(Constants.RecipeCreatedMessage, itemName, heroName);
 
         return result;
     }
